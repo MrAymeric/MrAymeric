@@ -4,5 +4,4 @@
 
 
 
-![alt text](file:///C:/Users/33660/Pictures/images/discord_banner1.jpg)
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
